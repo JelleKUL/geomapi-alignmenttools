@@ -11,6 +11,14 @@ This library is based on the Geomapi framework to standardize the managemanet of
 python -m pip install git+https://github.com/JelleKUL/geomapi-alignmenttools.git
 ```
 
+## Core features
+
+ - [ ] Import existing sessions
+ - [ ] compare 2 images using different methods
+ - [ ] compare 2 different meshes using different methods
+ - [ ] evaluate the estimations
+
+
 ## Workflow
 - Create/ import a geomapi.Session
 - Locate the reference Sessions
