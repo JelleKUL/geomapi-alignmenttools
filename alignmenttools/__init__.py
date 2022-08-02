@@ -67,3 +67,9 @@ class PoseEstimation():
         confidence = np.average(np.array(factors)[:,0], weights = np.array(factors)[:,1])
 
         return confidence
+
+# returns all sessions that are within the bounding volume
+def find_close_sessions(boundingVolume, referenceSessions):
+    pass
+
+
